@@ -42,7 +42,7 @@ Langchain, LLAMA index
 Common techs:
 FAISS, AWS extract, 
 
-![microsoft](./microsoft-diagram.png)
+![microsoft](./ms-diagram-rag.png)
 
 The biggest challenge of RAG:
 Documents a lot of times need to be processed before putting in the vector database. Otherwise, it will impact the accuracy.
